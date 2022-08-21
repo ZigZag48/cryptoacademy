@@ -1,5 +1,5 @@
-import './App.css';
-import icon from './Square_Black.svg';
+import './css/App.css';
+import icon from './assets/Square_Black.svg';
 
 function App() {
   return (
